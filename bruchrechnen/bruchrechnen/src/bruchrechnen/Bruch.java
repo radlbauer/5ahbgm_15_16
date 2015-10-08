@@ -1,5 +1,5 @@
 package bruchrechnen;
-//
+
 public class Bruch
 {
 	// Attribute (Instanz-Variablen)
