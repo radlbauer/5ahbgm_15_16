@@ -1,5 +1,5 @@
 package bruchrechnen;
-
+//
 public class Bruch
 {
 	// Attribute (Instanz-Variablen)
@@ -52,7 +52,7 @@ public class Bruch
 			b1 = new Bruch(neuerZaehler, neuerNenner);
 		} catch (Exception e)
 		{
-			// sollte nicht passieren können
+			// sollte nicht passieren kÃ¶nnen
 			e.printStackTrace();
 		}
 		return b1;
