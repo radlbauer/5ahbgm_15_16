@@ -13,7 +13,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         
-        asfsadf
+
         
         Logger.getLogger(App.class).info("das ist eine Logging-Message");
     }
